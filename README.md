@@ -2,6 +2,8 @@
 
 **TypeScript is a strongly typed, object-oriented, compiled programming language developed by Microsoft. It is a superset of JavaScript, meaning it extends JavaScript by adding static types. TypeScript code is compiled into JavaScript so it can run in any JavaScript environment (browser, Node.js, etc.).**
 
+<img src="/public/ts.webp" width="25%">
+
 ## Advantages of TypeScript
 
 ✅ Better Code Quality – Catches errors at compile time
@@ -13,6 +15,7 @@
 ✅ Scalability – Ideal for large-scale applications
 
 ✅ Community & Ecosystem – Strong Microsoft backing and integration with popular frameworks (React, Angular, Node.js)
+
 
 
 
